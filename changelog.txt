@@ -5,7 +5,11 @@ All notable changes to this project will be documented in this file.
 ### Added
 - New file index.php.
 
-
 ## [0.0.1] - 2021-03-24
 ### Added
 - Project bug fixed with phpinfo function
+
+
+## [0.1.0] - 2021-03-24
+### Added
+- New functionality added in test.php file.
