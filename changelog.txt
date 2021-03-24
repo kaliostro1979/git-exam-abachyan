@@ -4,3 +4,8 @@ All notable changes to this project will be documented in this file.
 ## [1.0.0] - 2021-03-24
 ### Added
 - New file index.php.
+
+
+## [0.0.1] - 2021-03-24
+### Added
+- Project bug fixed with phpinfo function
